@@ -1,9 +1,10 @@
+import { Nav } from './omponents'
 import { Hero, Footer, Offer, Products, Quality, Reviews, Services, Subscribe } from './sections'
 
 const App = () => {
     return (
         <main className="relative">
-            nav
+            <Nav />
             <section className="xl:padding-r padding-b">
                 <Hero />
             </section>
