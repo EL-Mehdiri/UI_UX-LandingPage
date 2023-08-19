@@ -1,4 +1,4 @@
-import { Nav } from './omponents'
+import { Nav } from './components'
 import { Hero, Footer, Offer, Products, Quality, Reviews, Services, Subscribe } from './sections'
 
 const App = () => {
